@@ -1,0 +1,2 @@
+127.0.0.1 - - [30/Apr/2018:12:51:29 +0800] "GET /brand/findAll.do HTTP/1.1" 200 908 http-bio-9101-exec-1 2146
+127.0.0.1 - - [30/Apr/2018:12:51:35 +0800] "GET /brand/find.do HTTP/1.1" 200 6 http-bio-9101-exec-2 14
