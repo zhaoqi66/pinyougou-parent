@@ -12,6 +12,7 @@ D:\github\workspeace\pinyougou-parent\pinyougou-pojo\src\main\java\com\pinyougou
 D:\github\workspeace\pinyougou-parent\pinyougou-pojo\src\main\java\com\pinyougou\pojo\TbSeckillGoods.java
 D:\github\workspeace\pinyougou-parent\pinyougou-pojo\src\main\java\com\pinyougou\pojo\TbSpecificationOptionExample.java
 D:\github\workspeace\pinyougou-parent\pinyougou-pojo\src\main\java\com\pinyougou\pojo\TbTypeTemplateExample.java
+D:\github\workspeace\pinyougou-parent\pinyougou-pojo\src\main\java\entity\Result.java
 D:\github\workspeace\pinyougou-parent\pinyougou-pojo\src\main\java\com\pinyougou\pojo\TbGoods.java
 D:\github\workspeace\pinyougou-parent\pinyougou-pojo\src\main\java\com\pinyougou\pojo\TbAddress.java
 D:\github\workspeace\pinyougou-parent\pinyougou-pojo\src\main\java\com\pinyougou\pojo\TbGoodsDesc.java
@@ -21,11 +22,13 @@ D:\github\workspeace\pinyougou-parent\pinyougou-pojo\src\main\java\com\pinyougou
 D:\github\workspeace\pinyougou-parent\pinyougou-pojo\src\main\java\com\pinyougou\pojo\TbContentExample.java
 D:\github\workspeace\pinyougou-parent\pinyougou-pojo\src\main\java\com\pinyougou\pojo\TbTypeTemplate.java
 D:\github\workspeace\pinyougou-parent\pinyougou-pojo\src\main\java\com\pinyougou\pojo\TbFreightTemplateExample.java
+D:\github\workspeace\pinyougou-parent\pinyougou-pojo\src\main\java\entity\PageResult.java
 D:\github\workspeace\pinyougou-parent\pinyougou-pojo\src\main\java\com\pinyougou\pojo\TbSeller.java
 D:\github\workspeace\pinyougou-parent\pinyougou-pojo\src\main\java\com\pinyougou\pojo\TbGoodsDescExample.java
 D:\github\workspeace\pinyougou-parent\pinyougou-pojo\src\main\java\com\pinyougou\pojo\TbSpecification.java
 D:\github\workspeace\pinyougou-parent\pinyougou-pojo\src\main\java\com\pinyougou\pojo\TbAddressExample.java
 D:\github\workspeace\pinyougou-parent\pinyougou-pojo\src\main\java\com\pinyougou\pojo\TbOrderItemExample.java
+D:\github\workspeace\pinyougou-parent\pinyougou-pojo\src\main\java\com\pinyougou\pojogroup\Specification.java
 D:\github\workspeace\pinyougou-parent\pinyougou-pojo\src\main\java\com\pinyougou\pojo\TbPayLogExample.java
 D:\github\workspeace\pinyougou-parent\pinyougou-pojo\src\main\java\com\pinyougou\pojo\TbProvinces.java
 D:\github\workspeace\pinyougou-parent\pinyougou-pojo\src\main\java\com\pinyougou\pojo\TbContentCategory.java

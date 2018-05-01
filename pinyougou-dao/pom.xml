@@ -8,7 +8,6 @@
   <artifactId>pinyougou-dao</artifactId>
   <dependencies>
 
-  	
  		<!-- Mybatis -->
 		<dependency>
 			<groupId>org.mybatis</groupId>
