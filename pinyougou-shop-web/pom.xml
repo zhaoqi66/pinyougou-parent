@@ -92,6 +92,22 @@
   		<version>0.0.1-SNAPSHOT</version>
   		<type>pom</type>
   	</dependency>
+  	
+  	
+  	  	<!-- 身份验证 -->
+	<dependency>
+		<groupId>org.springframework.security</groupId>
+		<artifactId>spring-security-web</artifactId>		
+	</dependency>
+	<dependency>
+		<groupId>org.springframework.security</groupId>
+		<artifactId>spring-security-config</artifactId>		
+	</dependency>
+  	
+  	
+  	
+
+  	
       </dependencies>
   <build>
 	 <plugins>

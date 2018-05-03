@@ -68,7 +68,8 @@ app.controller('sellerController' ,function($scope,$controller   ,sellerService)
 	$scope.searchEntity={};//定义搜索对象 
 	
 	//搜索
-	$scope.search=function(page,rows){			
+	$scope.search=function(page,rows){		
+		alert($scope.searchEntity);
 		sellerService.search(page,rows,$scope.searchEntity).success(
 			function(response){
 				$scope.list=response.rows;	
@@ -77,4 +78,17 @@ app.controller('sellerController' ,function($scope,$controller   ,sellerService)
 		);
 	}
     
+    $scope.updateStatus=function(sellerId,status){
+		sellerService.updateStatus(sellerId,status).success(
+			function(response){
+				if(response.success){
+					$scope.reloadList();//刷新列表
+				}else{
+					alert("失败");
+				}				
+			}
+		);
+	}
+
+	
 });	
